@@ -1,0 +1,4 @@
+Chef cookbook for installing Fedora repository server: http://fedora-commons.org/
+
+Currently working for Fedora 3.4.2, as required for Islandora 12.2
+
